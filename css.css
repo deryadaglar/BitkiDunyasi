@@ -1,0 +1,25 @@
+.span{
+    margin-left: 50px;
+}
+.pname{
+    text-align: center;
+    font-size: 20px;
+    font-style:initial;
+}
+.ptag {
+    margin-left: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+}
+.h2 {
+    background-color:coral;
+    font-size: 20px;
+}
+.resim {
+    width: 150px;
+}
+
+.div {
+    background-color: antiquewhite; 
+    text-align: center;
+}
